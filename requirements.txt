@@ -1,0 +1,3 @@
+# My LLM Streamlit App
+
+This is a Streamlit interface for a locally installed LLM using Ollama.
